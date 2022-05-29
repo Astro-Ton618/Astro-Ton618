@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Astro-Ton618/Astro-Ton618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Ton618&langs_count=6)](https://github.com/Astro-Ton618)
