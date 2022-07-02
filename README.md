@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Ton618&langs_count=7)](https://github.com/Astro-Ton618)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Ton618)](https://github.com/Astro-Ton618)
