@@ -1,4 +1,4 @@
-<h1>Hi👋, Astro here🤘!</h2>
+<h1>Hi👋, Bash here🤘!</h2>
 
 <h3 align='center'>Software engineer with scale in mind</h3>
 
