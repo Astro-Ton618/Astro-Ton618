@@ -14,23 +14,23 @@ Software engineer with scale in mind
 
 <img src='./assets/html5.svg' alt='html5' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg' alt='css3' width='40' height='40'/>
+<img src='./assets/css3.svg' alt='css3' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='typescript' width='40' height='40'/>
+<img src='./assets/typescript.svg' alt='typescript' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' alt='go' width='40' height='40'/>
+<img src='./assets/go.svg' alt='go' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40'/>
+<img src='./assets/python.svg' alt='python' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' alt='docker' width='40' height='40'/>
+<img src='./assets/docker.svg' alt='docker' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react' width='40' height='40'/>
+<img src='./assets/react.svg' alt='react' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg' alt='mysql' width='40' height='40'/>
+<img src='./assets/mysql.svg' alt='mysql' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='java' width='40' height='40'/>
+<img src='./assets/java.svg' alt='java' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg' alt='c' width='40' height='40'/>
+<img src='./assets/c.svg' alt='c' width='40' height='40'/>
 
 </div>
 
@@ -38,11 +38,11 @@ Software engineer with scale in mind
 
 <div style='display: flex;'>
 
-<img src='https://vitess.io/img/logos/vitess.png' alt='vitess' width='40' height='40'/>
+<img src='./assets/vitess.png' alt='vitess' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg' alt='kubernetes' width='40' height='40'/>
+<img src='./assets/kubernetes.svg' alt='kubernetes' width='40' height='40'/>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg' alt='scala' width='40' height='40'/>
+<img src='./assets/scala.svg' alt='scala' width='40' height='40'/>
 
 </div>
 
