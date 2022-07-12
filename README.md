@@ -2,7 +2,7 @@
 
 <h3 align='center'>
 
-![github-img](https://user-images.githubusercontent.com/48317892/178595253-9361be07-cf41-4b80-a5c3-fe5e6f05dc30.gif)
+![github-img](./assets/github-img.gif)
 
 Software engineer with scale in mind
 
@@ -12,7 +12,7 @@ Software engineer with scale in mind
 
 <div style='display: flex;'>
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg' alt='html5' width='40' height='40'/>
+<img src='./assets/html5.svg' alt='html5' width='40' height='40'/>
 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg' alt='css3' width='40' height='40'/>
 
