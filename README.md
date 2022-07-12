@@ -1,12 +1,8 @@
 <h1>Hi👋, Bash here🤘!</h2>
 
-<h3 align='center'>
-
 ![github-img](./assets/github-img.gif)
 
-Software engineer with scale in mind
-
-</h3>
+> <h3>Software engineer with scale in mind🌍 and aspiring open sorcerer💻</h3>
 
 <h3>Languages and Tools:</h3>
 
