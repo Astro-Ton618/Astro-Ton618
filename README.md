@@ -1,8 +1,8 @@
-<h1>Hi👋, Bash here🤘!</h2>
+<h1>Hi👋, Max here🤘!</h2>
 
 ![github-img](./assets/github-img.gif)
 
-> <h3>Software engineer with scale in mind🌍 and aspiring open sorcerer💻</h3>
+> <h3>Software engineer with scale in mind🌍 and aspiring open sorcerer💻🧙‍♂️</h3>
 
 <h3>Languages and Tools:</h3>
 
