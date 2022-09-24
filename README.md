@@ -14,6 +14,8 @@
 
 <img src='./assets/typescript.svg' alt='typescript' width='40' height='40'/>
 
+<img src='./assets/tailwindcss.png' alt='tailwindcss' width='40' height='40'/>
+
 <img src='./assets/go.svg' alt='go' width='40' height='40'/>
 
 <img src='./assets/python.svg' alt='python' width='40' height='40'/>
